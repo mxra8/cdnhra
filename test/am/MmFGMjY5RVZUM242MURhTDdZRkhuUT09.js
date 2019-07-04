@@ -225,7 +225,7 @@ MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250.gpt = {
     }
 };
 try {
-    MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250.gpt.hbd('https://i.e-planning.net/layers/hbdfp.js');
+    //MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250.gpt.hbd('https://i.e-planning.net/layers/hbdfp.js');
     MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250.gpt.tag();
     var MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250HRA_Article_MR = document.getElementById('MmFGMjY5RVZUM242MURhTDdZRkhuUT09');
     MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250HRA_Article_MR = (MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250HRA_Article_MR) ? MmFGMjY5RVZUM242MURhTDdZRkhuUT09300x250HRA_Article_MR.parentNode : document.body;
